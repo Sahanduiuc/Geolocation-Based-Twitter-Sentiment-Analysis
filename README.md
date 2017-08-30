@@ -80,4 +80,4 @@ pip install name_of_whl_file
 # Result
 
 
-![Output a1](Figure_1.png?raw=true "Output a1") 
+![Output a1](figure_1.png?raw=true "Output a1") 
