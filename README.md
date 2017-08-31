@@ -2,7 +2,7 @@
 
 Sentiment Analysis of Tweets using Natural Language Processing and Machine Learning Techniques.
 
-**Requirements:**
+# Requirements:
 
 1. **Python 3.5 or above** - Currently all code is written in Python 3.5.
 
